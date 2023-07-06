@@ -1,0 +1,61 @@
+
+html{
+    scroll-behavior: smooth;    
+}
+body{
+    display: flex;
+
+    background: url(mountains-blue-sky-mountain-range-fog-peak-4256x2832-5364.jpg);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+section1{
+width: 20%;
+height: 100%;
+color: black
+
+}
+
+section2{
+color: black;
+width: 1200px
+}
+#nickPic{
+height: auto;
+padding: 0;
+margin: 0;
+width: 381px;
+border-radius: 50%;
+}
+
+#name{
+    margin-left: 90px ;
+}
+
+
+nav ul {
+    display: flex;
+    padding: 50px;
+}
+nav ul a:hover{
+    background: orange;
+
+}
+
+nav ul a{
+margin: 10px 10px;
+background: skyblue;
+padding: 150px;
+font-weight: bold;
+font-size: larger;
+border-style: solid;
+border-color: blue;
+}
+
+
+nav ul a{
+    text-decoration: none;
+    color: black;
+}
